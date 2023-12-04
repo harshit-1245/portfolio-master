@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9d9dfbd.css",
+    "main.js": "/static/js/main.91d47f16.js",
+    "static/media/ecommerce.png": "/static/media/ecommerce.d703106a3fb271e86191.png",
+    "static/media/resume.jpg": "/static/media/resume.4cafac85a1acd3cfa653.jpg",
+    "static/media/ecommerce1.png": "/static/media/ecommerce1.14b77edcb6e4ea65d8d3.png",
+    "static/media/Netflix.png": "/static/media/Netflix.9cebfdd7d61f674d6a50.png",
+    "static/media/chat.png": "/static/media/chat.e665cc20af49c63be442.png",
+    "static/media/goku.png": "/static/media/goku.831b05a317576f574611.png",
+    "static/media/todo.png": "/static/media/todo.689545ad41179165d325.png",
+    "static/media/recipe.png": "/static/media/recipe.c69382330d9ec451ea44.png",
+    "static/media/profile.png": "/static/media/profile.6cba3e0e2ad05cd75230.png",
+    "index.html": "/index.html",
+    "main.a9d9dfbd.css.map": "/static/css/main.a9d9dfbd.css.map",
+    "main.91d47f16.js.map": "/static/js/main.91d47f16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9d9dfbd.css",
+    "static/js/main.91d47f16.js"
+  ]
+}
